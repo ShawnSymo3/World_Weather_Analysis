@@ -13,3 +13,5 @@ Analysis are that
 Temperature have a realations with latitude
 Weather becom warmer closer to the equator.
 
+
+,,httg
